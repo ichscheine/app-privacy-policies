@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CWS Autofill Privacy Policy</title>
+    <meta name="description" content="Privacy policy for the CWS Autofill Chrome extension.">
+    <link rel="stylesheet" href="../styles.css">
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero compact">
+        <p class="eyebrow">Chrome Extension Privacy Policy</p>
+        <h1>CWS Autofill</h1>
+        <p>Privacy policy for the Chrome Web Store autofill workflow extension.</p>
+        <p class="meta">Last updated: 2026-03-24</p>
+      </section>
+
+      <nav class="policy-nav" aria-label="Policy links">
+        <a href="../">All policies</a>
+      </nav>
+
+      <section class="section">
+        <h2>Summary</h2>
+        <p>CWS Autofill is a Chrome extension that helps a developer turn a local <code>privacy-policy.md</code> file into copy-ready Chrome Web Store listing and privacy-form answers.</p>
+      </section>
+
+      <section class="section">
+        <h2>Extension Permissions</h2>
+        <p>CWS Autofill declares these Chrome permissions:</p>
+        <ul>
+          <li><code>storage</code></li>
+          <li><code>sidePanel</code></li>
+        </ul>
+        <p>CWS Autofill does not declare any host permissions. These permissions are used only to keep the extension side panel available and save the generated profile, listing fields, permission justifications, and checklist state so the developer can continue the same workflow across sessions.</p>
+      </section>
+
+      <section class="section">
+        <h2>Data Categories CWS Autofill Handles</h2>
+        <p>When you use CWS Autofill, the extension may access or store:</p>
+        <ul>
+          <li>The local <code>privacy-policy.md</code> file content that you explicitly choose to upload.</li>
+          <li>Generated Chrome Web Store field values derived from that file.</li>
+          <li>Saved extension state such as the current profile, generated field values, permission justifications, and publish checklist state.</li>
+        </ul>
+        <p>CWS Autofill does not request or intentionally collect website content from arbitrary pages, browsing history, precise location, contacts, financial account or payment card data, authentication credentials, or analytics identifiers.</p>
+      </section>
+
+      <section class="section">
+        <h2>How CWS Autofill Uses Data</h2>
+        <p>CWS Autofill uses accessed data only to parse the uploaded privacy-policy markdown locally in the browser, generate copy-ready Chrome Web Store listing and privacy answers and justifications, render the popup and side panel UI so the developer can review and copy the generated values, and save the current profile locally so the developer does not need to regenerate it every time.</p>
+        <div class="summary">
+          CWS Autofill is not designed to sell personal information, serve ads, build advertising profiles, or make credit, lending, employment, housing, insurance, or similar eligibility decisions.
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Where Data Goes</h2>
+        <p>CWS Autofill processes the uploaded markdown locally inside the extension. It does not send the uploaded file, generated outputs, or saved profile data to external application servers.</p>
+        <p>If Chrome sync storage is available for the user's browser profile, saved extension state may be stored through Chrome's sync mechanism. Otherwise, the extension uses local extension storage on the device.</p>
+      </section>
+
+      <section class="section">
+        <h2>Third-Party Services</h2>
+        <p>CWS Autofill does not use ad networks, analytics SDKs, social media trackers, or external AI or model providers. It does not rely on remotely hosted code.</p>
+      </section>
+
+      <section class="section">
+        <h2>Data Storage And Retention</h2>
+        <p>CWS Autofill stores the current profile, generated listing and privacy answers, permission justifications, and related settings in <code>chrome.storage.sync</code> when available, or <code>chrome.storage.local</code> as a fallback.</p>
+        <p>That saved state remains until the user clears extension storage, removes the extension, or clears the associated browser profile data.</p>
+      </section>
+
+      <section class="section">
+        <h2>Chrome Web Store Disclosure Summary</h2>
+        <ul>
+          <li>Website content is accessed: no.</li>
+          <li>Webpage content is transmitted for analysis: no.</li>
+          <li>User activity within the extension is stored: yes, saved profile values and generated form text only.</li>
+          <li>Data is stored on the device: yes.</li>
+          <li>Data is sold to third parties: no.</li>
+          <li>Data is used for advertising or marketing: no.</li>
+          <li>Data is used for creditworthiness or other eligibility determinations: no.</li>
+          <li>Data is sent to a third-party remote service by default: no.</li>
+        </ul>
+        <p><code>sidePanel</code> is a Chrome permission, not a standalone data category. The main data this extension handles is the user-provided markdown content and the generated profile values stored locally to support the requested workflow.</p>
+      </section>
+
+      <section class="section">
+        <h2>User Controls</h2>
+        <p>You control whether to upload a local <code>privacy-policy.md</code> file and whether to keep the generated profile in extension storage. You can remove saved data by clearing the extension's storage or uninstalling the extension.</p>
+      </section>
+
+      <section class="section">
+        <h2>Changes To This Policy</h2>
+        <p>If CWS Autofill changes its permissions, storage behavior, or data flow, this policy should be updated before publication or release.</p>
+      </section>
+
+      <footer>Support contact should match the publisher contact listed on the Chrome Web Store item.</footer>
+    </main>
+  </body>
+</html>
