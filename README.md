@@ -1,23 +1,23 @@
 # App Privacy Policies
 
-Centralized GitHub Pages site for Chrome extension privacy policies.
+Centralized repo for Chrome extension privacy policy pages.
 
 ## Included policies
 
-- Air Visual Local
-- Air Visual Hosted
-- CSAwesome Prep Coach
-- TJ CS Readiness Prep
-- CWS Autofill
+- `privacy-policy-air-visual-local.md`
+- `privacy-policy-air-visual-hosted.md`
+- `privacy-policy-csawesome-prep-coach.md`
+- `privacy-policy-tj-cs-readiness-prep.md`
+- `privacy-policy-cws-autofill.md`
 
 ## Intended GitHub Pages URLs
 
 - `https://ichscheine.github.io/app-privacy-policies/`
-- `https://ichscheine.github.io/app-privacy-policies/air-visual-local/`
-- `https://ichscheine.github.io/app-privacy-policies/air-visual-hosted/`
-- `https://ichscheine.github.io/app-privacy-policies/CSAwesome-prep-coach-privacy/`
-- `https://ichscheine.github.io/app-privacy-policies/tj-cs-readiness-prep/`
-- `https://ichscheine.github.io/app-privacy-policies/cws-autofill/`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-air-visual-local.html`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-air-visual-hosted.html`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-csawesome-prep-coach.html`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-tj-cs-readiness-prep.html`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-cws-autofill.html`
 
 ## Source repos
 
