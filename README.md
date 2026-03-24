@@ -6,6 +6,7 @@ Centralized GitHub Pages site for Chrome extension privacy policies.
 
 - Air Visual Local
 - Air Visual Hosted
+- CSAwesome Prep Coach
 - TJ CS Readiness Prep
 - CWS Autofill
 
@@ -14,6 +15,7 @@ Centralized GitHub Pages site for Chrome extension privacy policies.
 - `https://ichscheine.github.io/app-privacy-policies/`
 - `https://ichscheine.github.io/app-privacy-policies/air-visual-local/`
 - `https://ichscheine.github.io/app-privacy-policies/air-visual-hosted/`
+- `https://ichscheine.github.io/app-privacy-policies/CSAwesome-prep-coach-privacy/`
 - `https://ichscheine.github.io/app-privacy-policies/tj-cs-readiness-prep/`
 - `https://ichscheine.github.io/app-privacy-policies/cws-autofill/`
 
@@ -21,7 +23,6 @@ Centralized GitHub Pages site for Chrome extension privacy policies.
 
 - `../air-visual-local/docs/privacy-policy.md`
 - `../air-visual-hosted/docs/privacy-policy.md`
+- `../AP-CSA-prep/README.md` and `../AP-CSA-prep/manifest.json`
 - `../TJ-CS-readiness-prep/tj-cs-readiness-prep-privacy-policy.html`
 - `../cws-autofill/privacy-policy.md`
-
-`AP-CSA-prep` is intentionally not included yet because there was no existing privacy policy file to migrate.
