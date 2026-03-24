@@ -6,6 +6,7 @@ Centralized privacy policy pages for Chrome extensions.
 
 - [Air Visual Local](privacy-policy-air-visual-local.html)
 - [Air Visual Hosted](privacy-policy-air-visual-hosted.html)
+- [ChatGPT Image Exporter](privacy-policy-chatgpt-image-exporter.html)
 - [CSAwesome Prep Coach](privacy-policy-csawesome-prep-coach.html)
 - [TJ CS Readiness Prep](privacy-policy-tj-cs-readiness-prep.html)
 - [CWS Autofill](privacy-policy-cws-autofill.html)

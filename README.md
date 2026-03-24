@@ -6,6 +6,7 @@ Centralized repo for Chrome extension privacy policy pages.
 
 - `privacy-policy-air-visual-local.md`
 - `privacy-policy-air-visual-hosted.md`
+- `privacy-policy-chatgpt-image-exporter.md`
 - `privacy-policy-csawesome-prep-coach.md`
 - `privacy-policy-tj-cs-readiness-prep.md`
 - `privacy-policy-cws-autofill.md`
@@ -15,6 +16,7 @@ Centralized repo for Chrome extension privacy policy pages.
 - `https://ichscheine.github.io/app-privacy-policies/`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-air-visual-local.html`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-air-visual-hosted.html`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-chatgpt-image-exporter.html`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-csawesome-prep-coach.html`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-tj-cs-readiness-prep.html`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-cws-autofill.html`
@@ -23,6 +25,7 @@ Centralized repo for Chrome extension privacy policy pages.
 
 - `../air-visual-local/docs/privacy-policy.md`
 - `../air-visual-hosted/docs/privacy-policy.md`
+- `/tmp/chatgpt-image-exporter-privacy/index.html`
 - `../AP-CSA-prep/README.md` and `../AP-CSA-prep/manifest.json`
 - `../TJ-CS-readiness-prep/tj-cs-readiness-prep-privacy-policy.html`
 - `../cws-autofill/privacy-policy.md`
