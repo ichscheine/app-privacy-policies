@@ -4,8 +4,8 @@ Centralized repo for Chrome extension privacy policy pages.
 
 ## Included policies
 
-- `privacy-policy-air-visual-local.md`
-- `privacy-policy-air-visual-hosted.md`
+- `privacy-policy-picamy-owner.md`
+- `privacy-policy-picamy-hosted.md`
 - `privacy-policy-chatgpt-image-exporter.md`
 - `privacy-policy-csawesome-prep-coach.md`
 - `privacy-policy-tj-cs-readiness-prep.md`
@@ -14,8 +14,8 @@ Centralized repo for Chrome extension privacy policy pages.
 ## Intended GitHub Pages URLs
 
 - `https://ichscheine.github.io/app-privacy-policies/`
-- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-air-visual-local.html`
-- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-air-visual-hosted.html`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-picamy-owner.html`
+- `https://ichscheine.github.io/app-privacy-policies/privacy-policy-picamy-hosted.html`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-chatgpt-image-exporter.html`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-csawesome-prep-coach.html`
 - `https://ichscheine.github.io/app-privacy-policies/privacy-policy-tj-cs-readiness-prep.html`
